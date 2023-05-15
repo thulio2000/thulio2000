@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tulio (@thulio2000), I'm 22;
-- 🌱 I’m currently learning frontend development and aiming to start a career as a developer
+- 👋 Hi, I’m Tulio (@thulio2000), I'm 23;
+- 🌱 I’m currently learning backend development and aiming to start a career as a developer
 - 📫 How to reach me: lucastuliolima@gmail.com
 
 <!---
